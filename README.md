@@ -18,8 +18,8 @@
 ## Collaborators
 
 **plandrew**
-- *First thing I've done
+- *First thing I've done*
 
 
 **BenHumphrey**
-- *First thing you've done
+- *First thing you've done*
