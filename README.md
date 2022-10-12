@@ -22,7 +22,7 @@
 - BenHumphrey
 
 ## ToDo
-1. Background color change as you scroll
-2. Template of the flex-box element in the HTML & CSS
-3. Effect of the appearance of the box along with the scrolling
-4. Randomly generating new content with new box
+1. Background color change as you scroll / plandrew
+2. Template of the flex-box element in the HTML & CSS /Ben
+3. Effect of the appearance of the box along with the scrolling /plandrew & Ben
+4. Randomly generating new content with new box /Ben

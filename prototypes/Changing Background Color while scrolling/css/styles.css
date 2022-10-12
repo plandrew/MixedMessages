@@ -20,7 +20,7 @@ body {
   
   
   .card {
-    opacity: 0;
+
     transition: 1500ms;
     /*transform: translateX(50%) translateY(50%);*/
     border-radius: 100% 0 0 0;
@@ -33,7 +33,7 @@ body {
 
   .card.show {
     /*transform: translateX(50%) translateY(50%);*/
-    opacity: 1;
+
     height: 250vh;
     width: 250vh;
     position: absolute;
