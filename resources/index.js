@@ -2,9 +2,7 @@
 
 // for randomNumber(3), for example, it will output any number from 1-3
 
-const randomNumber = n => {
-    return Math.ceil(Math.random()*n)
-}
+const randomNumber = n => Math.ceil(Math.random()*n)
 
 console.log(randomNumber(2))
 console.log(randomNumber(3))
